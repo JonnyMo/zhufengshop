@@ -1,0 +1,32 @@
+{
+  "name": "y",
+  "description": "这是一个珠峰网上商城的demo",
+  "main": "index.js",
+  "authors": [
+    "zhufeng"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "zhufengshop",
+    "bower",
+    "express",
+    "shop",
+    "zhufeng"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}

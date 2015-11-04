@@ -1,0 +1,29 @@
+{
+  "name": "zhufengshop",
+  "version": "1.0.0",
+  "description": "这是一个珠峰网上商城的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonnyMo/zhufengshop"
+  },
+  "keywords": [
+    "zhufengshop",
+    "bower",
+    "express",
+    "shop",
+    "zhufeng"
+  ],
+  "author": "zhufeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonnyMo/zhufengshop/issues"
+  },
+  "homepage": "https://github.com/JonnyMo/zhufengshop",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
