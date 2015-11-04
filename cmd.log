@@ -1,0 +1,12 @@
+git add .
+git commit -m 'init project'
+git commit -m ''
+git remote add origin https://github.com/JonnyMo/zhufengshop.git
+git push -u origin master
+git add .
+git commit -m 'init'
+git config --global user.email 'mo0928@163.com'
+git config --global user.name 'JonnyMo'
+git commit -m 'init'
+git push -u origin master
+
